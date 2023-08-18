@@ -11,6 +11,7 @@ public class AdminTest {
 	@Test(groups = "smoke")
 	public void runAdmin() {
 		System.out.println("run successful as Admin");
+		System.out.println("done");
 	}
 	
 	
