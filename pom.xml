@@ -83,7 +83,7 @@
 			        <version>3.1.2</version>
 			        <configuration>
 			          <suiteXmlFiles>
-			            <suiteXmlFile>GroupExec.xml</suiteXmlFile>
+			            <suiteXmlFile>testng-Group.xml</suiteXmlFile>
 			          </suiteXmlFiles>
 			        </configuration>
 			      </plugin>
