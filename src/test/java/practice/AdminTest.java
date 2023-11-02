@@ -16,7 +16,9 @@ public class AdminTest {
 	@Test(groups = "regression")
 	public void deleteAdmin() {
 		System.out.println("Admin deleted");
+		System.out.println("Admin not deleted");
 		
 	}
+	
 	
 }
